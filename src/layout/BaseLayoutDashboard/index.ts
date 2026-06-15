@@ -1,0 +1,1 @@
+export { BaseLayoutDashboard } from './BaseLayoutDashboard.component';
